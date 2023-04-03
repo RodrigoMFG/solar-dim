@@ -10,7 +10,7 @@ O projeto foi criado em conjunto por [RodrigoMFG](https://github.com/RodrigoMFG)
 
 ## Features 💻
 
-- [] Lista de features que o web aplicativo possui com a marcação caso tenha sido feito ou não;
+- [ ] Lista de features que o web aplicativo possui com a marcação caso tenha sido feito ou não;
 
 ## Hospedagem 🖥️
 
