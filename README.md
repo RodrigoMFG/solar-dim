@@ -18,6 +18,7 @@ Caso esteja hospedado, informar qual(is) ferramenta(s) utilizada(s) e link para 
 
 ## Tecnologias 🛠️
 
+- TypeScript
 - Node.JS
-- Express.JS
-- ...
+  - Express.JS
+- SvelteJS
