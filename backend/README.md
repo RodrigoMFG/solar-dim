@@ -9,7 +9,7 @@ Os seguintes comandos estão disponíveis neste projeto:
 - `npm run dev`: Executa o dev do projeto, fazendo com que projeto recompile a cada alteração feita, facilitando assim seu desenvolvimento;
 - `npm run build`: Executa o build do projeto, transpilando todo código TypeScript para JavaScript.
 
-## Libs utilizada
+## Libs utilizadas
 
 O repositório conta com as seguintes libs:
 
