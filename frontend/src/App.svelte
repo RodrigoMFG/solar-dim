@@ -6,9 +6,15 @@
 </script>
 
 <Router>
-  <Route component={Home} />
-  <Route path="/contact" component={About} />
-  <Route path="/about" component={Contact} />
+  <Route path="/">
+    <Home />
+  </Route>
+  <Route path="/about">
+    <About />
+  </Route>
+  <Route path="/contact">
+    <Contact />
+  </Route>
 </Router>
 
 <style>

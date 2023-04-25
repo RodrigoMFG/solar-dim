@@ -2,7 +2,7 @@
 
 Solar Dim é um web aplicativo para cálculos de fotovoltaica, isto é, a energia obtida através da conversão da luz e/ou eletrecidade por meio do efeito fotovoltaico.
 
-O projeto foi criado em conjunto por [RodrigoMFG](https://github.com/RodrigoMFG), []() e [Hermel](https://github.com/H3rmel)
+O projeto foi criado em conjunto por [RodrigoMFG](https://github.com/RodrigoMFG), [Heitor](https://github.com/TenoEngineer) e [Hermel](https://github.com/H3rmel)
 
 ## Iniciando o projeto 🚀
 
